@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-Thjs is a test
+Thjs is a test another
 In the project directory, you can run:
 
 ### `npm start`
